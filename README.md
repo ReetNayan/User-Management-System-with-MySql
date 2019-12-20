@@ -3,7 +3,7 @@
 ---------------
 ###### This application has not been developed completely...
 # User Management System with MySql
-A usermanagement application using TKinter library and mysql to register/sign up or sign in users stored in a Database created locally.
+A user management application using TKinter library and mysql to register/sign up or sign in users stored in a Database created locally.
 ---------------
 #### Requirements :
 ###### 1. Windows operating system.
