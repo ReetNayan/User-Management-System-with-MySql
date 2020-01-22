@@ -9,6 +9,7 @@ A user management application using TKinter library and mysql to register/sign u
 ###### 1. Windows operating system.
 ###### 2. MySql server 5.6.4 and its Bin folder must be registered in the Environment Variables.
 ###### 3. Some knowledge about MySql, Python and Computers.
+###### 4. Python above 3.7 must be installed with TKinter library.
 ---------------
 #### How to use :
 ###### 1. Start the batch file available to run 'mysqld' command and start the mysql server.
