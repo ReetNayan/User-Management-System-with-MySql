@@ -50,7 +50,7 @@ def register_popup():
 
     maxChar=Label(win,text="(Maximum 4 Characters)")
     maxChar.pack()
-    maxChar.place(x=130,y=105)
+    maxChar.place(x=130,y=110)
 
     passwordDis=Label(win,text="Password : ")
     passwordDis.pack()

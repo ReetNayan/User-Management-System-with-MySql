@@ -1,3 +1,9 @@
+###### Version - 2.
+###### Added features -
+###### 1. Passwords are stored as sha-256 hashes. Therefore much more secure.
+###### 2. Refined a GUI text field.
+###### 3. Fixed many major bugs and loopholes.
+---------------
 ###### Made by - Reet Nayan
 ###### Date Created - 20th December 2019
 ---------------
